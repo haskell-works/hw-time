@@ -39,8 +39,6 @@ executable hw-time-exe
   import:               base, config
                       , hw-time
   main-is:              Main.hs
-  other-modules:        Paths_hw_time
-  autogen-modules:      Paths_hw_time
   hs-source-dirs:       app
   ghc-options:          -threaded -rtsopts -with-rtsopts=-N
 
@@ -49,7 +47,5 @@ test-suite hw-time-test
                       , hw-time
   type:                 exitcode-stdio-1.0
   main-is:              Spec.hs
-  other-modules:        Paths_hw_time
-  autogen-modules:      Paths_hw_time
   hs-source-dirs:       test
   ghc-options:          -threaded -rtsopts -with-rtsopts=-N
