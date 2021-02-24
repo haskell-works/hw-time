@@ -2,7 +2,7 @@ cabal-version: 2.4
 
 name:                   hw-time
 version:                0.1.0.0
-description:            Time library
+synopsis:               Time library
 description:            Please see the README on Github at <https://github.com/newhoggy/hw-time#readme>
 homepage:               https://github.com/newhoggy/hw-time#readme
 bug-reports:            https://github.com/newhoggy/hw-time/issues
