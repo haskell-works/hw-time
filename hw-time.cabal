@@ -8,12 +8,12 @@ homepage:               https://github.com/newhoggy/hw-time#readme
 bug-reports:            https://github.com/newhoggy/hw-time/issues
 author:                 John Ky
 maintainer:             newhoggy@gmail.com
-copyright:              2016-2019 John Ky
+copyright:              2016-2021 John Ky
 license:                BSD-3-Clause
 license-file:           LICENSE
 build-type:             Simple
 category:               Data
-tested-with:            GHC == 8.10.1, GHC == 8.8.3, GHC == 8.6.5, GHC == 8.4.4
+tested-with:            GHC == 9.0.1, GHC == 8.10.7, GHC == 8.8.4, GHC == 8.6.5
 extra-source-files:     README.md
                         ChangeLog.md
 
